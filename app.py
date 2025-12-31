@@ -66,7 +66,7 @@ h1, h2, h3 {
 # ---------------------------------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("C:/Users/TRYMORE/Desktop/DataSets/creditdata.csv")
+    return pd.read_csv("creditdata.csv")
 
 @st.cache_resource
 def load_model():
