@@ -1,0 +1,312 @@
+﻿Customer_ID,Gender,Age,Marital_Status,Employment_Status,Level_of_Education,Residence_Area,Home_Ownership,Number_of_Dependants,Product_Quantity,Total_Amount,Other_Solar_Product_purchase_on_installments,Tenure,DefaultStatus
+SP1,Male,57,Married,Salaried Employee,College,Low Density,Employer,3,3,120,Yes,12 Months,1
+SP2,Female,53,Married,Entrepreneur,O Level,High Density,Tenant,5,2,330,Yes,24 Months,0
+SP3,Male,41,Single,Entrepreneur,A Level,Medium Density,Relative/Guardian,5,2,140,Yes,24 Months,0
+SP4,Female,46,Single,Salaried Employee,College,Low Density,Employer,5,1,30,No,24 Months,1
+SP5,Female,21,Single,Entrepreneur,A Level,High Density,Tenant,5,3,585,No,24 Months,0
+SP6,Male,21,Widowed,Entrepreneur,O Level,High Density,Relative/Guardian,6,1,30,Yes,24 Months,1
+SP7,Female,43,Married,Entrepreneur,Primary School Education,Low Density,Tenant,3,3,120,No,24 Months,0
+SP8,Female,58,Married,Salaried Employee,College,Low Density,Own,1,1,70,Yes,24 Months,1
+SP9,Male,50,Widowed,Entrepreneur,Primary School Education,High Density,Relative/Guardian,3,1,12,No,12 Months,0
+SP10,Female,63,Married,Salaried Employee,A Level,High Density,Tenant,6,3,36,No,24 Months,0
+SP11,Female,27,Widowed,Salaried Employee,A Level,Medium Density,Own,0,3,36,Yes,12 Months,1
+SP12,Male,23,Married,Salaried Employee,College,Low Density,Employer,4,3,495,Yes,24 Months,1
+SP13,Female,44,Single,Entrepreneur,Primary School Education,High Density,Relative/Guardian,2,1,30,No,24 Months,0
+SP14,Male,22,Single,Salaried Employee,Primary School Education,High Density,Employer,6,3,90,Yes,24 Months,0
+SP15,Male,45,Married,Salaried Employee,Primary School Education,Low Density,Employer,0,3,90,No,24 Months,1
+SP16,Male,24,Single,Salaried Employee,A Level,Low Density,Relative/Guardian,1,2,60,Yes,24 Months,1
+SP17,Male,41,Widowed,Salaried Employee,Primary School Education,Medium Density,Relative/Guardian,1,1,30,No,24 Months,0
+SP18,Female,35,Widowed,Entrepreneur,O Level,Medium Density,Own,1,2,140,No,12 Months,1
+SP19,Female,21,Married,Salaried Employee,College,Low Density,Own,1,3,210,No,12 Months,1
+SP20,Male,32,Married,Entrepreneur,A Level,High Density,Tenant,4,2,24,Yes,12 Months,0
+SP21,Female,62,Married,Salaried Employee,O Level,High Density,Tenant,5,1,135,No,24 Months,0
+SP22,Female,51,Married,Entrepreneur,Primary School Education,Medium Density,Relative/Guardian,4,1,70,Yes,12 Months,0
+SP23,Female,20,Single,Salaried Employee,O Level,Low Density,Relative/Guardian,5,2,140,Yes,12 Months,1
+SP24,Male,57,Married,Entrepreneur,A Level,High Density,Relative/Guardian,4,2,140,Yes,12 Months,0
+SP25,Male,39,Single,Salaried Employee,A Level,Medium Density,Own,0,3,210,No,24 Months,1
+SP26,Female,45,Single,Salaried Employee,College,Low Density,Tenant,3,2,60,Yes,12 Months,1
+SP27,Male,48,Single,Entrepreneur,Primary School Education,High Density,Tenant,5,1,30,Yes,24 Months,0
+SP28,Female,53,Married,Entrepreneur,Primary School Education,Low Density,Own,3,1,30,No,12 Months,0
+SP29,Male,36,Single,Salaried Employee,College,Medium Density,Own,4,1,30,Yes,12 Months,1
+SP30,Female,47,Married,Entrepreneur,A Level,Low Density,Employer,2,2,330,Yes,24 Months,1
+SP31,Female,54,Widowed,Salaried Employee,College,Medium Density,Relative/Guardian,3,3,585,No,12 Months,0
+SP32,Male,46,Married,Salaried Employee,College,Low Density,Employer,2,2,330,Yes,24 Months,1
+SP33,Male,36,Married,Salaried Employee,A Level,Low Density,Own,3,3,90,Yes,24 Months,1
+SP34,Male,22,Married,Salaried Employee,O Level,Medium Density,Relative/Guardian,3,1,70,No,24 Months,0
+SP35,Male,56,Married,Entrepreneur,Primary School Education,High Density,Own,3,3,210,No,12 Months,0
+SP36,Male,65,Single,Salaried Employee,College,Low Density,Employer,6,1,30,Yes,12 Months,1
+SP37,Male,47,Single,Entrepreneur,College,High Density,Relative/Guardian,1,3,495,Yes,24 Months,0
+SP38,Female,23,Married,Entrepreneur,A Level,High Density,Tenant,5,3,120,Yes,24 Months,0
+SP39,Female,62,Married,Salaried Employee,A Level,Medium Density,Own,2,2,330,No,12 Months,1
+SP40,Male,41,Married,Entrepreneur,O Level,High Density,Tenant,5,3,210,Yes,12 Months,0
+SP41,Male,21,Married,Salaried Employee,A Level,Low Density,Tenant,0,3,90,Yes,24 Months,1
+SP42,Male,29,Married,Salaried Employee,College,Low Density,Employer,4,2,140,No,12 Months,1
+SP43,Female,47,Widowed,Entrepreneur,Primary School Education,Medium Density,Relative/Guardian,4,1,30,No,24 Months,0
+SP44,Male,23,Married,Salaried Employee,College,Low Density,Tenant,3,2,80,Yes,12 Months,1
+SP45,Male,30,Married,Salaried Employee,A Level,Medium Density,Own,5,1,12,No,12 Months,1
+SP46,Female,33,Single,Entrepreneur,Primary School Education,High Density,Tenant,4,1,40,No,24 Months,0
+SP47,Female,62,Married,Salaried Employee,College,Medium Density,Own,0,2,140,No,12 Months,1
+SP48,Male,26,Married,Entrepreneur,A Level,High Density,Tenant,4,1,30,Yes,24 Months,0
+SP49,Male,50,Single,Entrepreneur,College,High Density,Relative/Guardian,2,3,90,Yes,12 Months,0
+SP50,Female,28,Married,Entrepreneur,College,Low Density,Relative/Guardian,1,2,390,No,24 Months,1
+SP51,Male,31,Single,Entrepreneur,Primary School Education,High Density,Tenant,0,3,585,No,24 Months,0
+SP52,Male,20,Married,Salaried Employee,A Level,Low Density,Own,3,2,60,Yes,24 Months,1
+SP53,Male,65,Single,Salaried Employee,O Level,Low Density,Employer,1,2,80,No,24 Months,1
+SP54,Male,54,Married,Entrepreneur,Primary School Education,High Density,Relative/Guardian,6,1,12,No,12 Months,0
+SP55,Female,46,Widowed,Salaried Employee,A Level,Medium Density,Own,2,2,60,No,12 Months,1
+SP56,Male,49,Single,Entrepreneur,A Level,High Density,Own,4,2,140,Yes,24 Months,0
+SP57,Male,46,Married,Salaried Employee,Primary School Education,Medium Density,Relative/Guardian,6,1,70,No,24 Months,0
+SP58,Male,45,Married,Salaried Employee,College,Low Density,Relative/Guardian,3,3,90,No,24 Months,1
+SP59,Female,30,Single,Salaried Employee,College,Low Density,Own,2,1,165,No,12 Months,1
+SP60,Male,35,Widowed,Entrepreneur,A Level,Medium Density,Tenant,2,1,40,Yes,12 Months,1
+SP61,Female,44,Married,Entrepreneur,O Level,High Density,Relative/Guardian,4,2,140,No,24 Months,0
+SP62,Male,55,Single,Entrepreneur,Primary School Education,High Density,Employer,0,3,210,No,12 Months,0
+SP63,Female,25,Single,Salaried Employee,College,Low Density,Employer,2,1,30,No,24 Months,1
+SP64,Male,31,Single,Entrepreneur,A Level,Low Density,Own,6,1,70,No,24 Months,1
+SP65,Male,46,Married,Entrepreneur,A Level,High Density,Relative/Guardian,6,3,36,No,12 Months,0
+SP66,Female,20,Widowed,Entrepreneur,Primary School Education,High Density,Tenant,1,3,120,No,12 Months,0
+SP67,Female,65,Widowed,Salaried Employee,College,Low Density,Employer,3,1,30,Yes,24 Months,1
+SP68,Male,57,Married,Entrepreneur,A Level,High Density,Relative/Guardian,6,2,60,Yes,12 Months,0
+SP69,Male,38,Widowed,Salaried Employee,A Level,Medium Density,Tenant,6,3,90,No,12 Months,0
+SP70,Male,28,Married,Salaried Employee,O Level,Low Density,Employer,3,2,140,No,24 Months,1
+SP71,Female,49,Widowed,Salaried Employee,A Level,Medium Density,Own,5,2,60,Yes,24 Months,1
+SP72,Female,45,Married,Entrepreneur,O Level,Medium Density,Relative/Guardian,1,2,330,Yes,12 Months,0
+SP73,Female,45,Married,Salaried Employee,College,Low Density,Own,0,2,60,No,24 Months,1
+SP74,Male,45,Married,Entrepreneur,A Level,Low Density,Employer,1,3,495,No,12 Months,1
+SP75,Female,43,Widowed,Salaried Employee,A Level,Medium Density,Own,1,3,495,No,24 Months,1
+SP76,Male,36,Single,Entrepreneur,Primary School Education,High Density,Relative/Guardian,5,1,30,No,12 Months,0
+SP77,Male,37,Widowed,Salaried Employee,College,Medium Density,Relative/Guardian,5,3,36,No,24 Months,1
+SP78,Female,28,Married,Entrepreneur,Primary School Education,High Density,Employer,5,2,60,Yes,24 Months,0
+SP79,Male,45,Widowed,Salaried Employee,Primary School Education,Low Density,Tenant,5,3,36,No,12 Months,0
+SP80,Female,61,Widowed,Salaried Employee,College,High Density,Employer,4,3,90,Yes,12 Months,1
+SP81,Male,29,Widowed,Entrepreneur,Primary School Education,Medium Density,Relative/Guardian,3,2,60,No,24 Months,0
+SP82,Male,48,Married,Salaried Employee,A Level,Low Density,Own,0,2,60,No,24 Months,1
+SP83,Female,31,Married,Salaried Employee,O Level,Medium Density,Relative/Guardian,4,1,165,Yes,12 Months,1
+SP84,Male,43,Married,Entrepreneur,Primary School Education,High Density,Relative/Guardian,3,1,195,Yes,12 Months,0
+SP85,Male,36,Married,Salaried Employee,Primary School Education,High Density,Tenant,5,3,90,Yes,12 Months,0
+SP86,Female,56,Single,Entrepreneur,College,Low Density,Own,3,2,80,No,12 Months,1
+SP87,Female,56,Single,Salaried Employee,Primary School Education,High Density,Tenant,5,3,495,Yes,24 Months,0
+SP88,Male,27,Married,Salaried Employee,College,Low Density,Employer,2,2,60,No,24 Months,1
+SP89,Male,64,Widowed,Entrepreneur,A Level,Medium Density,Own,0,3,210,No,12 Months,1
+SP90,Male,33,Widowed,Salaried Employee,O Level,Low Density,Tenant,1,2,140,Yes,12 Months,1
+SP91,Female,56,Widowed,Salaried Employee,Primary School Education,High Density,Relative/Guardian,0,3,495,No,24 Months,0
+SP92,Female,43,Single,Entrepreneur,O Level,High Density,Tenant,3,1,165,Yes,12 Months,0
+SP93,Male,57,Single,Salaried Employee,College,Low Density,Relative/Guardian,1,2,390,Yes,12 Months,1
+SP94,Male,40,Widowed,Entrepreneur,College,Medium Density,Own,0,3,90,No,12 Months,1
+SP95,Male,58,Married,Entrepreneur,O Level,High Density,Tenant,6,3,90,Yes,24 Months,0
+SP96,Female,60,Widowed,Entrepreneur,Primary School Education,High Density,Tenant,0,1,195,Yes,12 Months,0
+SP97,Female,28,Widowed,Entrepreneur,Primary School Education,Medium Density,Relative/Guardian,6,2,24,No,12 Months,0
+SP98,Female,29,Single,Salaried Employee,O Level,Low Density,Employer,5,2,80,No,12 Months,0
+SP99,Male,36,Single,Entrepreneur,College,Medium Density,Own,4,2,140,Yes,24 Months,1
+SP100,Female,63,Married,Salaried Employee,A Level,Low Density,Employer,0,2,24,No,12 Months,1
+SP101,Male,57,Married,Salaried Employee,College,Low Density,Own,0,1,12,No,12 Months,1
+SP102,Male,43,Married,Salaried Employee,College,Low Density,Relative/Guardian,4,1,70,No,12 Months,1
+SP103,Male,52,Married,Entrepreneur,O Level,Medium Density,Relative/Guardian,3,2,60,No,12 Months,0
+SP104,Female,40,Married,Entrepreneur,Primary School Education,High Density,Employer,5,1,30,No,24 Months,0
+SP105,Male,63,Single,Entrepreneur,A Level,Medium Density,Employer,1,2,330,No,24 Months,1
+SP106,Female,52,Single,Salaried Employee,College,Low Density,Employer,0,2,60,Yes,24 Months,1
+SP107,Male,43,Married,Salaried Employee,College,Low Density,Employer,0,3,120,No,24 Months,1
+SP108,Female,22,Married,Salaried Employee,O Level,High Density,Relative/Guardian,1,1,30,No,24 Months,0
+SP109,Male,37,Married,Entrepreneur,Primary School Education,High Density,Tenant,1,1,40,No,12 Months,0
+SP110,Male,38,Widowed,Entrepreneur,Primary School Education,Medium Density,Relative/Guardian,6,3,90,No,12 Months,0
+SP111,Female,63,Married,Salaried Employee,College,Low Density,Own,2,3,90,Yes,24 Months,1
+SP112,Male,51,Widowed,Salaried Employee,A Level,Low Density,Tenant,1,2,60,Yes,24 Months,1
+SP113,Male,24,Married,Entrepreneur,Primary School Education,Medium Density,Employer,2,2,330,No,12 Months,1
+SP114,Female,61,Single,Entrepreneur,Primary School Education,High Density,Relative/Guardian,2,2,330,No,24 Months,0
+SP115,Male,21,Married,Salaried Employee,College,Medium Density,Employer,0,2,24,No,24 Months,1
+SP116,Male,40,Married,Salaried Employee,O Level,Medium Density,Relative/Guardian,6,3,90,No,24 Months,0
+SP117,Female,63,Married,Entrepreneur,Primary School Education,High Density,Relative/Guardian,6,3,495,Yes,24 Months,0
+SP118,Male,38,Married,Salaried Employee,A Level,Low Density,Own,1,1,70,No,12 Months,1
+SP119,Male,55,Widowed,Entrepreneur,College,Low Density,Employer,1,1,12,Yes,24 Months,1
+SP120,Female,29,Married,Entrepreneur,Primary School Education,Medium Density,Tenant,1,2,330,Yes,12 Months,0
+SP121,Male,58,Married,Entrepreneur,Primary School Education,Low Density,Relative/Guardian,0,1,30,No,12 Months,0
+SP122,Male,24,Widowed,Salaried Employee,College,Low Density,Own,4,2,140,Yes,12 Months,1
+SP123,Male,39,Widowed,Salaried Employee,A Level,Low Density,Tenant,5,2,60,Yes,24 Months,1
+SP124,Male,27,Single,Entrepreneur,Primary School Education,High Density,Relative/Guardian,0,3,90,Yes,12 Months,0
+SP125,Female,22,Single,Salaried Employee,College,Medium Density,Employer,4,1,165,Yes,12 Months,1
+SP126,Female,31,Married,Salaried Employee,College,Low Density,Own,0,2,60,No,24 Months,1
+SP127,Male,55,Married,Entrepreneur,College,High Density,Relative/Guardian,3,1,40,No,24 Months,0
+SP128,Female,25,Married,Salaried Employee,A Level,Low Density,Relative/Guardian,1,3,210,No,12 Months,1
+SP129,Female,36,Widowed,Salaried Employee,Primary School Education,Medium Density,Relative/Guardian,5,1,165,Yes,24 Months,0
+SP130,Female,21,Married,Salaried Employee,Primary School Education,Medium Density,Employer,4,1,165,Yes,24 Months,1
+SP131,Male,61,Widowed,Salaried Employee,College,Medium Density,Relative/Guardian,1,2,140,Yes,24 Months,1
+SP132,Female,58,Married,Entrepreneur,A Level,Low Density,Own,3,1,30,Yes,24 Months,1
+SP133,Male,21,Single,Entrepreneur,O Level,Medium Density,Own,3,3,585,No,12 Months,0
+SP134,Female,22,Single,Salaried Employee,Primary School Education,High Density,Relative/Guardian,4,3,36,Yes,24 Months,0
+SP135,Male,47,Widowed,Salaried Employee,College,Low Density,Own,1,2,60,Yes,12 Months,1
+SP136,Male,27,Married,Salaried Employee,A Level,Low Density,Own,2,2,60,No,24 Months,1
+SP137,Female,58,Married,Entrepreneur,O Level,Medium Density,Tenant,4,2,330,Yes,12 Months,0
+SP138,Female,44,Widowed,Salaried Employee,A Level,Low Density,Own,0,2,60,No,24 Months,1
+SP139,Male,31,Single,Entrepreneur,Primary School Education,Medium Density,Relative/Guardian,3,1,40,Yes,24 Months,0
+SP140,Female,54,Widowed,Salaried Employee,Primary School Education,High Density,Tenant,1,3,90,No,12 Months,0
+SP141,Male,47,Married,Salaried Employee,A Level,Low Density,Relative/Guardian,4,1,30,No,12 Months,1
+SP142,Male,23,Single,Entrepreneur,College,Medium Density,Own,5,3,90,No,12 Months,1
+SP143,Female,43,Married,Salaried Employee,O Level,High Density,Tenant,0,3,36,Yes,24 Months,0
+SP144,Female,57,Single,Entrepreneur,A Level,Medium Density,Employer,1,1,70,Yes,12 Months,1
+SP145,Male,63,Single,Salaried Employee,College,Low Density,Own,6,3,90,No,12 Months,1
+SP146,Male,30,Single,Entrepreneur,Primary School Education,Medium Density,Relative/Guardian,5,2,140,No,24 Months,0
+SP147,Male,45,Single,Salaried Employee,College,Low Density,Own,0,2,60,Yes,12 Months,1
+SP148,Female,43,Widowed,Entrepreneur,O Level,Medium Density,Tenant,6,2,24,No,12 Months,0
+SP149,Female,53,Single,Salaried Employee,College,High Density,Employer,5,1,30,Yes,24 Months,1
+SP150,Male,31,Married,Salaried Employee,A Level,Low Density,Own,0,2,140,No,12 Months,1
+SP151,Male,42,Married,Freelancer,Primary School Education,High Density,Employer,1,1,70,Yes,24 Months,1
+SP152,Male,54,Married,Freelancer,O Level,Medium Density,Relative/Guardian,5,2,60,Yes,12 Months,0
+SP153,Female,63,Widowed,Salaried Employee,A Level,High Density,Own,4,2,60,No,24 Months,1
+SP154,Male,27,Single,Salaried Employee,College,Low Density,Employer,6,3,90,Yes,24 Months,1
+SP155,Male,47,Married,Salaried Employee,College,Medium Density,Own,4,3,90,No,24 Months,1
+SP156,Female,28,Married,Freelancer,Primary School Education,High Density,Relative/Guardian,3,3,90,Yes,12 Months,0
+SP157,Female,61,Married,Freelancer,Primary School Education,Low Density,Tenant,4,3,36,No,12 Months,0
+SP158,Female,23,Widowed,Salaried Employee,O Level,High Density,Relative/Guardian,3,3,90,No,24 Months,0
+SP159,Male,52,Widowed,Salaried Employee,O Level,Low Density,Employer,5,1,30,No,12 Months,1
+SP160,Female,34,Widowed,Salaried Employee,A Level,High Density,Own,0,2,60,No,12 Months,1
+SP161,Male,34,Married,Freelancer,College,Medium Density,Own,0,2,140,Yes,24 Months,1
+SP162,Female,37,Married,Salaried Employee,A Level,Low Density,Relative/Guardian,0,1,40,No,12 Months,1
+SP163,Female,43,Widowed,Salaried Employee,College,Low Density,Tenant,4,3,210,Yes,24 Months,1
+SP164,Female,24,Married,Salaried Employee,College,Medium Density,Own,1,1,12,No,24 Months,1
+SP165,Male,51,Married,Freelancer,A Level,Medium Density,Relative/Guardian,3,1,30,No,12 Months,0
+SP166,Female,64,Single,Salaried Employee,O Level,Low Density,Relative/Guardian,3,3,585,No,12 Months,0
+SP167,Female,32,Single,Freelancer,A Level,High Density,Employer,1,2,60,Yes,12 Months,1
+SP168,Female,63,Married,Salaried Employee,Primary School Education,High Density,Tenant,5,2,80,Yes,24 Months,0
+SP169,Male,49,Single,Salaried Employee,College,Low Density,Relative/Guardian,4,3,210,Yes,12 Months,1
+SP170,Female,46,Single,Freelancer,College,Low Density,Tenant,2,3,495,No,12 Months,0
+SP171,Male,32,Married,Hourly/Wage Employee,College,Medium Density,Relative/Guardian,5,2,270,No,12 Months,1
+SP172,Female,58,Single,Freelancer,O Level,High Density,Relative/Guardian,3,1,30,No,12 Months,0
+SP173,Female,65,Married,Hourly/Wage Employee,O Level,Low Density,Own,1,1,195,Yes,24 Months,1
+SP174,Female,46,Married,Freelancer,Primary School Education,High Density,Own,6,1,12,Yes,12 Months,0
+SP175,Female,36,Widowed,Hourly/Wage Employee,College,Medium Density,Employer,3,3,90,No,24 Months,1
+SP176,Male,58,Widowed,Freelancer,Primary School Education,High Density,Relative/Guardian,6,3,36,Yes,24 Months,0
+SP177,Female,30,Widowed,Hourly/Wage Employee,A Level,Medium Density,Employer,3,3,90,Yes,12 Months,1
+SP178,Female,62,Single,Hourly/Wage Employee,A Level,Medium Density,Tenant,5,3,210,Yes,24 Months,0
+SP179,Male,36,Widowed,Hourly/Wage Employee,College,Low Density,Employer,3,3,210,Yes,24 Months,1
+SP180,Female,48,Widowed,Hourly/Wage Employee,A Level,Low Density,Own,3,1,165,Yes,24 Months,1
+SP181,Female,32,Single,Hourly/Wage Employee,Primary School Education,Medium Density,Relative/Guardian,2,3,36,No,24 Months,0
+SP182,Female,54,Married,Freelancer,College,Medium Density,Relative/Guardian,1,1,165,No,24 Months,1
+SP183,Male,39,Single,Hourly/Wage Employee,Primary School Education,Low Density,Own,1,3,210,No,12 Months,1
+SP184,Male,54,Single,Hourly/Wage Employee,College,High Density,Tenant,3,1,135,No,12 Months,0
+SP185,Female,32,Married,Hourly/Wage Employee,O Level,Medium Density,Relative/Guardian,4,3,36,No,12 Months,0
+SP186,Male,52,Married,Hourly/Wage Employee,A Level,Low Density,Employer,3,3,120,Yes,24 Months,1
+SP187,Male,52,Married,Hourly/Wage Employee,A Level,High Density,Employer,6,3,36,Yes,24 Months,1
+SP188,Female,20,Widowed,Freelancer,Primary School Education,Low Density,Tenant,4,1,12,Yes,12 Months,0
+SP189,Female,23,Single,Freelancer,College,Medium Density,Relative/Guardian,4,2,330,Yes,12 Months,1
+SP190,Female,51,Single,Freelancer,Primary School Education,High Density,Own,3,2,60,Yes,12 Months,0
+SP191,Male,53,Single,Hourly/Wage Employee,O Level,High Density,Tenant,5,3,210,Yes,12 Months,0
+SP192,Male,34,Married,Freelancer,Primary School Education,High Density,Relative/Guardian,3,2,60,Yes,24 Months,0
+SP193,Male,44,Married,Freelancer,Primary School Education,Medium Density,Relative/Guardian,4,2,60,No,24 Months,0
+SP194,Female,60,Widowed,Freelancer,College,Low Density,Own,2,2,330,No,24 Months,1
+SP195,Female,46,Married,Hourly/Wage Employee,College,Low Density,Employer,2,2,60,Yes,12 Months,1
+SP196,Male,62,Widowed,Freelancer,Primary School Education,Medium Density,Own,1,2,60,Yes,12 Months,0
+SP197,Female,46,Married,Freelancer,A Level,High Density,Tenant,4,1,195,Yes,24 Months,0
+SP198,Male,35,Single,Hourly/Wage Employee,O Level,Low Density,Relative/Guardian,0,1,30,No,12 Months,1
+SP199,Female,53,Married,Freelancer,A Level,High Density,Relative/Guardian,6,3,120,No,24 Months,0
+SP200,Female,63,Married,Hourly/Wage Employee,A Level,Low Density,Tenant,3,3,90,Yes,12 Months,1
+SP201,Female,42,Married,Hourly/Wage Employee,A Level,Medium Density,Employer,1,2,60,No,24 Months,1
+SP202,Female,24,Married,Hourly/Wage Employee,Primary School Education,High Density,Employer,6,1,30,Yes,12 Months,0
+SP203,Male,29,Single,Hourly/Wage Employee,College,Low Density,Own,2,3,90,No,24 Months,1
+SP204,Female,20,Widowed,Freelancer,A Level,Medium Density,Employer,0,3,120,Yes,24 Months,1
+SP205,Male,56,Married,Freelancer,A Level,Medium Density,Own,0,3,210,No,24 Months,0
+SP206,Male,61,Widowed,Hourly/Wage Employee,College,Low Density,Own,3,1,12,No,24 Months,1
+SP207,Female,44,Married,Hourly/Wage Employee,College,Medium Density,Employer,0,3,90,No,24 Months,1
+SP208,Female,39,Widowed,Freelancer,College,Medium Density,Relative/Guardian,2,1,165,Yes,12 Months,0
+SP209,Male,62,Single,Hourly/Wage Employee,O Level,High Density,Own,3,2,60,No,12 Months,1
+SP210,Female,49,Single,Hourly/Wage Employee,College,Medium Density,Employer,4,3,90,Yes,12 Months,1
+SP211,Male,23,Single,Freelancer,Primary School Education,High Density,Tenant,5,1,30,No,12 Months,0
+SP212,Male,54,Single,Hourly/Wage Employee,O Level,Medium Density,Tenant,6,1,30,No,12 Months,0
+SP213,Female,55,Widowed,Hourly/Wage Employee,A Level,Low Density,Own,3,2,80,No,12 Months,1
+SP214,Male,54,Married,Freelancer,Primary School Education,Medium Density,Relative/Guardian,6,3,495,No,24 Months,0
+SP215,Female,42,Single,Hourly/Wage Employee,Primary School Education,High Density,Relative/Guardian,3,2,24,No,24 Months,0
+SP216,Male,48,Single,Hourly/Wage Employee,College,Low Density,Employer,3,2,330,Yes,12 Months,1
+SP217,Male,64,Married,Hourly/Wage Employee,A Level,Low Density,Relative/Guardian,0,2,60,Yes,24 Months,1
+SP218,Female,24,Single,Freelancer,O Level,Low Density,Tenant,6,2,24,No,24 Months,0
+SP219,Male,50,Widowed,Freelancer,College,Medium Density,Own,4,2,60,Yes,24 Months,1
+SP220,Female,21,Single,Hourly/Wage Employee,O Level,High Density,Relative/Guardian,3,2,60,Yes,12 Months,0
+SP221,Male,38,Married,Hourly/Wage Employee,College,Medium Density,Employer,2,1,30,Yes,12 Months,1
+SP222,Female,39,Married,Freelancer,Primary School Education,High Density,Relative/Guardian,3,3,495,No,24 Months,0
+SP223,Male,50,Married,Hourly/Wage Employee,O Level,High Density,Relative/Guardian,1,2,80,Yes,12 Months,0
+SP224,Female,53,Married,Freelancer,O Level,Medium Density,Tenant,3,2,330,No,24 Months,0
+SP225,Female,29,Widowed,Hourly/Wage Employee,Primary School Education,Low Density,Own,3,3,120,Yes,12 Months,1
+SP226,Female,24,Married,Freelancer,Primary School Education,Low Density,Relative/Guardian,2,3,90,No,12 Months,0
+SP227,Female,53,Married,Hourly/Wage Employee,College,High Density,Own,4,1,165,Yes,24 Months,1
+SP228,Female,42,Married,Freelancer,O Level,Medium Density,Tenant,6,3,90,Yes,12 Months,0
+SP229,Male,53,Married,Hourly/Wage Employee,O Level,Low Density,Relative/Guardian,6,3,36,No,24 Months,1
+SP230,Male,43,Married,Freelancer,Primary School Education,High Density,Tenant,6,1,30,No,24 Months,0
+SP231,Male,46,Single,Hourly/Wage Employee,College,Medium Density,Employer,1,3,120,No,12 Months,1
+SP232,Male,44,Married,Hourly/Wage Employee,A Level,Low Density,Employer,1,1,30,No,24 Months,1
+SP233,Male,30,Married,Freelancer,Primary School Education,Medium Density,Relative/Guardian,4,3,495,Yes,24 Months,0
+SP234,Male,40,Single,Freelancer,College,Low Density,Employer,3,1,30,No,12 Months,1
+SP235,Female,50,Married,Hourly/Wage Employee,O Level,Low Density,Employer,2,2,60,No,12 Months,1
+SP236,Male,47,Widowed,Hourly/Wage Employee,College,High Density,Relative/Guardian,2,1,195,No,24 Months,1
+SP237,Male,63,Married,Hourly/Wage Employee,College,Low Density,Employer,0,3,495,No,12 Months,1
+SP238,Female,44,Single,Freelancer,College,Medium Density,Relative/Guardian,2,1,30,No,24 Months,0
+SP239,Female,31,Single,Hourly/Wage Employee,A Level,High Density,Relative/Guardian,6,3,90,No,24 Months,0
+SP240,Male,60,Widowed,Hourly/Wage Employee,A Level,Low Density,Own,6,1,195,No,12 Months,1
+SP241,Female,39,Married,Freelancer,O Level,Medium Density,Tenant,4,3,495,No,12 Months,0
+SP242,Female,53,Single,Freelancer,Primary School Education,Medium Density,Relative/Guardian,1,2,24,No,12 Months,1
+SP243,Male,53,Married,Hourly/Wage Employee,College,High Density,Own,0,3,90,Yes,24 Months,1
+SP244,Female,63,Married,Hourly/Wage Employee,A Level,Low Density,Employer,4,2,330,Yes,24 Months,1
+SP245,Male,45,Single,Freelancer,Primary School Education,High Density,Relative/Guardian,5,3,210,Yes,12 Months,0
+SP246,Female,65,Married,Hourly/Wage Employee,A Level,Low Density,Own,0,3,495,No,12 Months,1
+SP247,Male,43,Married,Freelancer,Primary School Education,Medium Density,Employer,6,3,90,Yes,12 Months,0
+SP248,Female,28,Widowed,Hourly/Wage Employee,A Level,Low Density,Own,4,1,165,No,24 Months,1
+SP249,Male,53,Widowed,Freelancer,O Level,Low Density,Employer,5,2,60,Yes,12 Months,1
+SP250,Female,41,Married,Freelancer,College,Medium Density,Relative/Guardian,0,2,140,Yes,12 Months,0
+SP251,Female,53,Widowed,Hourly/Wage Employee,College,Low Density,Own,2,3,585,Yes,12 Months,1
+SP252,Female,34,Widowed,Freelancer,O Level,Medium Density,Relative/Guardian,4,2,140,Yes,24 Months,0
+SP253,Female,28,Widowed,Hourly/Wage Employee,College,Low Density,Employer,3,2,140,Yes,12 Months,1
+SP254,Male,36,Married,Hourly/Wage Employee,A Level,Medium Density,Own,4,3,210,No,24 Months,1
+SP255,Male,44,Married,Hourly/Wage Employee,Primary School Education,High Density,Relative/Guardian,4,2,60,No,24 Months,0
+SP256,Male,28,Married,Freelancer,Primary School Education,High Density,Employer,6,3,90,No,12 Months,0
+SP257,Male,23,Married,Hourly/Wage Employee,A Level,Medium Density,Own,2,2,330,No,24 Months,1
+SP258,Female,53,Widowed,Hourly/Wage Employee,O Level,Low Density,Employer,1,1,40,No,12 Months,1
+SP259,Female,33,Married,Freelancer,College,Medium Density,Tenant,2,2,60,Yes,12 Months,0
+SP260,Female,48,Single,Freelancer,College,Low Density,Relative/Guardian,6,2,60,Yes,12 Months,1
+SP261,Female,39,Married,Freelancer,Primary School Education,Medium Density,Relative/Guardian,3,3,210,No,24 Months,0
+SP262,Female,34,Single,Hourly/Wage Employee,College,Medium Density,Tenant,6,2,24,No,24 Months,1
+SP263,Female,46,Single,Hourly/Wage Employee,O Level,High Density,Own,0,1,30,Yes,24 Months,1
+SP264,Female,52,Single,Freelancer,A Level,High Density,Relative/Guardian,3,1,30,No,24 Months,0
+SP265,Male,30,Single,Hourly/Wage Employee,College,Low Density,Own,1,3,495,Yes,12 Months,1
+SP266,Female,60,Single,Hourly/Wage Employee,Primary School Education,Medium Density,Employer,4,1,30,No,24 Months,0
+SP267,Female,47,Married,Hourly/Wage Employee,O Level,Low Density,Employer,0,3,405,No,24 Months,1
+SP268,Male,35,Married,Freelancer,College,Medium Density,Employer,0,2,60,No,12 Months,1
+SP269,Female,55,Single,Freelancer,College,Medium Density,Relative/Guardian,3,2,80,Yes,24 Months,0
+SP270,Female,29,Widowed,Freelancer,O Level,Low Density,Relative/Guardian,5,1,195,Yes,24 Months,0
+SP271,Male,51,Single,Hourly/Wage Employee,A Level,Low Density,Own,6,3,90,No,24 Months,1
+SP272,Male,32,Married,Hourly/Wage Employee,O Level,Low Density,Tenant,5,3,210,Yes,12 Months,0
+SP273,Female,33,Single,Freelancer,Primary School Education,High Density,Relative/Guardian,0,1,165,Yes,12 Months,0
+SP274,Male,26,Single,Freelancer,Primary School Education,High Density,Tenant,4,3,90,No,12 Months,0
+SP275,Male,38,Widowed,Hourly/Wage Employee,A Level,Medium Density,Own,3,3,210,Yes,24 Months,1
+SP276,Male,30,Single,Hourly/Wage Employee,College,Low Density,Employer,5,1,30,No,12 Months,1
+SP277,Male,60,Single,Freelancer,College,Low Density,Employer,2,1,165,No,12 Months,1
+SP278,Female,36,Widowed,Hourly/Wage Employee,A Level,Medium Density,Own,3,1,30,No,12 Months,1
+SP279,Male,27,Widowed,Hourly/Wage Employee,O Level,Low Density,Employer,0,3,90,Yes,12 Months,1
+SP280,Female,40,Married,Hourly/Wage Employee,College,Low Density,Tenant,0,1,30,No,12 Months,1
+SP281,Male,53,Married,Freelancer,Primary School Education,Medium Density,Relative/Guardian,1,3,90,Yes,24 Months,0
+SP282,Male,48,Widowed,Hourly/Wage Employee,A Level,Low Density,Relative/Guardian,5,2,330,No,24 Months,1
+SP283,Male,44,Married,Freelancer,College,Low Density,Employer,2,1,70,No,24 Months,1
+SP284,Male,61,Widowed,Hourly/Wage Employee,College,Low Density,Own,0,2,60,No,12 Months,1
+SP285,Male,63,Single,Hourly/Wage Employee,O Level,Low Density,Relative/Guardian,3,1,12,No,24 Months,0
+SP286,Male,22,Single,Freelancer,A Level,Medium Density,Employer,2,1,40,Yes,24 Months,0
+SP287,Female,52,Married,Hourly/Wage Employee,College,Low Density,Employer,1,1,30,No,24 Months,1
+SP288,Male,65,Single,Freelancer,A Level,Low Density,Own,1,1,70,No,24 Months,1
+SP289,Female,24,Single,Freelancer,Primary School Education,Low Density,Relative/Guardian,0,2,140,Yes,12 Months,0
+SP290,Male,42,Single,Hourly/Wage Employee,A Level,High Density,Own,3,3,90,No,24 Months,1
+SP291,Male,33,Widowed,Freelancer,Primary School Education,High Density,Relative/Guardian,5,1,30,Yes,24 Months,0
+SP292,Female,36,Single,Freelancer,College,Low Density,Own,0,3,120,No,12 Months,1
+SP293,Female,40,Single,Hourly/Wage Employee,O Level,Medium Density,Relative/Guardian,1,2,60,Yes,12 Months,0
+SP294,Male,27,Married,Hourly/Wage Employee,College,Medium Density,Employer,4,2,60,Yes,24 Months,1
+SP295,Female,43,Married,Freelancer,Primary School Education,Medium Density,Relative/Guardian,0,3,210,No,24 Months,0
+SP296,Female,61,Married,Hourly/Wage Employee,College,Low Density,Own,0,2,60,Yes,24 Months,1
+SP297,Female,46,Widowed,Hourly/Wage Employee,College,Low Density,Own,2,3,120,Yes,24 Months,1
+SP298,Male,23,Widowed,Freelancer,Primary School Education,High Density,Own,3,3,90,No,12 Months,1
+SP299,Male,27,Married,Hourly/Wage Employee,A Level,High Density,Employer,2,2,60,Yes,24 Months,1
+SP300,Male,37,Widowed,Freelancer,O Level,High Density,Relative/Guardian,3,1,40,Yes,24 Months,0
+SP301,Female,59,Single,Hourly/Wage Employee,O Level,Medium Density,Own,3,2,140,No,12 Months,1
+SP302,Female,63,Widowed,Hourly/Wage Employee,Primary School Education,Low Density,Employer,6,2,330,No,24 Months,0
+SP303,Female,65,Married,Freelancer,Primary School Education,High Density,Relative/Guardian,6,2,60,No,24 Months,0
+SP304,Female,51,Married,Hourly/Wage Employee,O Level,Medium Density,Employer,6,3,90,Yes,24 Months,1
+SP305,Male,58,Widowed,Hourly/Wage Employee,O Level,Low Density,Tenant,4,3,495,No,24 Months,1
+SP306,Male,36,Widowed,Freelancer,College,Low Density,Employer,4,3,210,Yes,24 Months,1
+SP307,Male,31,Married,Hourly/Wage Employee,A Level,Medium Density,Employer,3,2,390,Yes,12 Months,1
+SP308,Female,49,Married,Freelancer,College,Low Density,Relative/Guardian,6,1,70,No,24 Months,0
+SP309,Male,39,Widowed,Hourly/Wage Employee,O Level,Medium Density,Own,2,2,60,No,12 Months,1
+SP310,Male,44,Widowed,Freelancer,College,Medium Density,Tenant,4,3,210,No,12 Months,0
+SP311,Male,42,Single,Hourly/Wage Employee,A Level,Low Density,Relative/Guardian,1,3,495,Yes,12 Months,1
