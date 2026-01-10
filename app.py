@@ -346,7 +346,7 @@ df = load_data()
 models = load_models()
 
 # ===============================
-# DASHBOARD PAGE
+# DASHBOARD PAGE (UNCHANGED - WORKING FINE)
 # ===============================
 if page == "🏠 Dashboard":
     st.markdown("<div class='card'>", unsafe_allow_html=True)
@@ -424,7 +424,7 @@ if page == "🏠 Dashboard":
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ===============================
-# RISK PREDICTION PAGE
+# RISK PREDICTION PAGE (UNCHANGED - WORKING FINE)
 # ===============================
 elif page == "🔍 Risk Prediction":
     st.markdown("<div class='card'>", unsafe_allow_html=True)
@@ -580,7 +580,7 @@ elif page == "🔍 Risk Prediction":
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ===============================
-# MODEL ANALYTICS PAGE
+# MODEL ANALYTICS PAGE (FIXED)
 # ===============================
 elif page == "🤖 Model Analytics":
     st.markdown("<div class='card'>", unsafe_allow_html=True)
@@ -604,10 +604,19 @@ elif page == "🤖 Model Analytics":
     
     metrics_df = pd.DataFrame(metrics_data)
     
-    # Radar chart for top models
+    # Radar chart for top models - FIXED COLOR ISSUE
     top_models = metrics_df.nlargest(5, 'F1-Score')
     
     fig = go.Figure()
+    
+    # Define gold color sequence manually
+    gold_colors = [
+        'rgb(245, 199, 122)',  # Light gold
+        'rgb(255, 217, 142)',  # Lighter gold
+        'rgb(212, 169, 78)',   # Medium gold
+        'rgb(184, 145, 61)',   # Dark gold
+        'rgb(155, 122, 46)'    # Darker gold
+    ]
     
     for idx, row in top_models.iterrows():
         fig.add_trace(go.Scatterpolar(
@@ -615,7 +624,7 @@ elif page == "🤖 Model Analytics":
             theta=['Accuracy', 'Precision', 'Recall', 'F1-Score'],
             fill='toself',
             name=row['Model'],
-            line_color=px.colors.sequential.Gold[idx]
+            line_color=gold_colors[idx] if idx < len(gold_colors) else gold_colors[0]
         ))
     
     fig.update_layout(
@@ -685,7 +694,7 @@ elif page == "🤖 Model Analytics":
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ===============================
-# DATA INSIGHTS PAGE
+# DATA INSIGHTS PAGE (FIXED)
 # ===============================
 elif page == "📊 Data Insights":
     st.markdown("<div class='card'>", unsafe_allow_html=True)
@@ -729,24 +738,29 @@ elif page == "📊 Data Insights":
             st.plotly_chart(fig2, use_container_width=True)
     
     with tab2:
-        # Correlation Heatmap (numeric columns only)
+        # Correlation Heatmap (numeric columns only) - FIXED COLORSCALE ISSUE
         numeric_df = df.select_dtypes(include=[np.number])
         if not numeric_df.empty:
             corr_matrix = numeric_df.corr()
             
+            # Use valid Plotly colorscale name instead of custom string
             fig = px.imshow(
                 corr_matrix,
                 text_auto='.2f',
                 aspect="auto",
-                color_continuous_scale='gold',
+                color_continuous_scale='sunset',  # Changed from 'gold' to valid colorscale
                 title='Feature Correlation Matrix'
             )
             fig.update_layout(
                 plot_bgcolor='rgba(0,0,0,0)',
                 paper_bgcolor='rgba(0,0,0,0)',
-                font_color='#f5c77a'
+                font_color='#f5c77a',
+                xaxis_title="",
+                yaxis_title=""
             )
             st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.info("No numeric columns available for correlation analysis.")
     
     with tab3:
         st.markdown("<h3>Dataset Overview</h3>", unsafe_allow_html=True)
@@ -771,7 +785,7 @@ elif page == "📊 Data Insights":
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ===============================
-# SYSTEM INFO PAGE
+# SYSTEM INFO PAGE (UNCHANGED - WORKING FINE)
 # ===============================
 elif page == "⚙️ System Info":
     st.markdown("<div class='card'>", unsafe_allow_html=True)
