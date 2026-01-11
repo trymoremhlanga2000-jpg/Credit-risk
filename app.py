@@ -354,7 +354,7 @@ if page == "🏠 Dashboard":
     col1, col2, col3 = st.columns([2, 1, 1])
     
     with col1:
-        st.markdown("<h1>ELITERISK ANALYTICS</h1>", unsafe_allow_html=True)
+        st.markdown("<h1>DATA ANALYTICS</h1>", unsafe_allow_html=True)
         st.markdown("""
         <div style='color: rgba(245, 199, 122, 0.8); font-size: 18px; line-height: 1.6;'>
         A credit risk assessment system leveraging 12 machine learning models 
