@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 # PAGE CONFIG
 # ===============================
 st.set_page_config(
-    page_title="EliteRisk Analytics | Credit Intelligence",
+    page_title="Trymore Analytics | Credit Intelligence",
     page_icon="💎",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -357,8 +357,8 @@ if page == "🏠 Dashboard":
         st.markdown("<h1>ELITERISK ANALYTICS</h1>", unsafe_allow_html=True)
         st.markdown("""
         <div style='color: rgba(245, 199, 122, 0.8); font-size: 18px; line-height: 1.6;'>
-        Premium credit risk assessment system leveraging 12 machine learning models 
-        for accurate default prediction. Enterprise-grade analytics powered by 
+        A credit risk assessment system leveraging 12 machine learning models 
+        for accurate default prediction. Enterprise-grade analytics powered by machine learning,
         ensemble learning and neural networks.
         </div>
         """, unsafe_allow_html=True)
@@ -542,17 +542,17 @@ elif page == "🔍 Risk Prediction":
                 risk_level = "LOW RISK"
                 risk_class = "risk-low"
                 color = "#22c55e"
-                recommendation = "✅ **APPROVE** - Low risk profile"
+                recommendation = "✅ APPROVE - Low risk profile"
             elif avg_prob < 0.6:
                 risk_level = "MEDIUM RISK"
                 risk_class = "risk-medium"
                 color = "#f59e0b"
-                recommendation = "⚠️ **REVIEW** - Additional verification recommended"
+                recommendation = "⚠️ REVIEW - Additional verification recommended"
             else:
                 risk_level = "HIGH RISK"
                 risk_class = "risk-high"
                 color = "#ef4444"
-                recommendation = "❌ **DECLINE** - High probability of default"
+                recommendation = "❌ DECLINE - High probability of default"
             
             st.markdown(f"""
             <div style='text-align: center; padding: 20px;'>
@@ -785,7 +785,7 @@ elif page == "📊 Data Insights":
     st.markdown("</div>", unsafe_allow_html=True)
 
 # ===============================
-# SYSTEM INFO PAGE (UNCHANGED - WORKING FINE)
+# SYSTEM INFO 
 # ===============================
 elif page == "⚙️ System Info":
     st.markdown("<div class='card'>", unsafe_allow_html=True)
@@ -856,6 +856,6 @@ elif page == "⚙️ System Info":
 # FOOTER
 # ===============================
 st.markdown(
-    "<div class='footer'>EliteRisk Analytics | Credit Intelligence System © 2024</div>",
+    "<div class='footer'>Trymore Analytics | Credit Intelligence System © 2026</div>",
     unsafe_allow_html=True
 )
