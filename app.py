@@ -327,7 +327,7 @@ def load_data():
 # ===============================
 # SIDEBAR
 # ===============================
-st.sidebar.markdown("<h2 style='text-align: center;'>💎 EliteRisk</h2>", unsafe_allow_html=True)
+st.sidebar.markdown("<h2 style='text-align: center;'>💎 TryieDataMagic</h2>", unsafe_allow_html=True)
 st.sidebar.markdown("<div style='text-align: center; color: rgba(245, 199, 122, 0.7); margin-bottom: 30px;'>CREDIT INTELLIGENCE SYSTEM</div>", unsafe_allow_html=True)
 
 page = st.sidebar.radio(
